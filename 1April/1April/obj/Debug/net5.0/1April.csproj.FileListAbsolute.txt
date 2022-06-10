@@ -1,0 +1,16 @@
+C:\Users\Elshad\Desktop\1April\1April\1April\bin\Debug\net5.0\1April.exe
+C:\Users\Elshad\Desktop\1April\1April\1April\bin\Debug\net5.0\1April.deps.json
+C:\Users\Elshad\Desktop\1April\1April\1April\bin\Debug\net5.0\1April.runtimeconfig.json
+C:\Users\Elshad\Desktop\1April\1April\1April\bin\Debug\net5.0\1April.runtimeconfig.dev.json
+C:\Users\Elshad\Desktop\1April\1April\1April\bin\Debug\net5.0\1April.dll
+C:\Users\Elshad\Desktop\1April\1April\1April\bin\Debug\net5.0\ref\1April.dll
+C:\Users\Elshad\Desktop\1April\1April\1April\bin\Debug\net5.0\1April.pdb
+C:\Users\Elshad\Desktop\1April\1April\1April\obj\Debug\net5.0\1April.csproj.AssemblyReference.cache
+C:\Users\Elshad\Desktop\1April\1April\1April\obj\Debug\net5.0\1April.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elshad\Desktop\1April\1April\1April\obj\Debug\net5.0\1April.AssemblyInfoInputs.cache
+C:\Users\Elshad\Desktop\1April\1April\1April\obj\Debug\net5.0\1April.AssemblyInfo.cs
+C:\Users\Elshad\Desktop\1April\1April\1April\obj\Debug\net5.0\1April.csproj.CoreCompileInputs.cache
+C:\Users\Elshad\Desktop\1April\1April\1April\obj\Debug\net5.0\1April.dll
+C:\Users\Elshad\Desktop\1April\1April\1April\obj\Debug\net5.0\ref\1April.dll
+C:\Users\Elshad\Desktop\1April\1April\1April\obj\Debug\net5.0\1April.pdb
+C:\Users\Elshad\Desktop\1April\1April\1April\obj\Debug\net5.0\1April.genruntimeconfig.cache
